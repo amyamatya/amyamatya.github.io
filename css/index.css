@@ -171,7 +171,12 @@ hr.black {
 	border-radius: 50%;
 }
 
-		https://stackoverflow.com/a/2711996 
+		
+.images-border-logo {
+	border: .1em solid #000000;
+	border-radius: 3.2em;
+}
+
 
 .images-size-mtb {
 	width: 70%;
