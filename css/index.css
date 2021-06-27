@@ -172,16 +172,21 @@ hr.black {
 }
 
 		https://stackoverflow.com/a/2711996 
-*/
+
 .images-size-mtb {
 	width: 70%;
+	height: auto;
+}
+
+.images-size-ikon {
+	width: 20%;
 	height: auto;
 }
 
 .images-size-skiing {
 	width: 90%;
 	height: auto;
-} */
+} 
 
 /* Rtn Red Color */
 .RtnRed {
