@@ -15,6 +15,7 @@
   --gray-dark: #343a40;
   --primary: #f4623a;
   --bluish: #76ad92;
+  --darkerbluish: #59856f;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -149,7 +150,7 @@ sup {
 }
 
 a {
-  color: #76ad92;
+  color: #59856f;
   text-decoration: none;
   background-color: transparent;
 }
@@ -2428,8 +2429,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #76ad92;
-  border-color: #76ad92;
+  background-color: #59856f;
+  border-color: #59856f;
 }
 .btn-primary:hover {
   color: #fff;
