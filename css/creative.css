@@ -2429,7 +2429,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #4d7360;
+  background-color: #76ad92;
   border-color: #4d7360;
 }
 .btn-primary:hover {
@@ -2639,7 +2639,7 @@ fieldset:disabled a.btn {
 
 .btn-dark {
   color: #fff;
-  background-color: #4d7360;
+  background-color: #76ad92;
   border-color: #4d7360;
 }
 .btn-dark:hover {
@@ -2655,7 +2655,7 @@ fieldset:disabled a.btn {
 }
 .btn-dark.disabled, .btn-dark:disabled {
   color: #fff;
-  background-color: #4d7360;
+  background-color: #76ad92;
   border-color: #4d7360;
 }
 .btn-dark:not(:disabled):not(.disabled):active, .btn-dark:not(:disabled):not(.disabled).active, .show > .btn-dark.dropdown-toggle {
