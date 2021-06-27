@@ -14,6 +14,7 @@
   --gray: #6c757d;
   --gray-dark: #343a40;
   --primary: #f4623a;
+  --bluish: #76ada0;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -148,7 +149,7 @@ sup {
 }
 
 a {
-  color: #f4623a;
+  color: #76ada0;
   text-decoration: none;
   background-color: transparent;
 }
@@ -2427,8 +2428,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  background-color: #76ada0;
+  border-color: #76ada0;
 }
 .btn-primary:hover {
   color: #fff;
@@ -2443,8 +2444,8 @@ fieldset:disabled a.btn {
 }
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  background-color: #76ada0;
+  border-color: #76ada0;
 }
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
@@ -2666,25 +2667,25 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #f4623a;
-  border-color: #f4623a;
+  color: #76ada0;
+  border-color: #76ada0;
 }
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  background-color: #76ada0;
+  border-color: #76ada0;
 }
 .btn-outline-primary:focus, .btn-outline-primary.focus {
   box-shadow: 0 0 0 0.2rem rgba(244, 98, 58, 0.5);
 }
 .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-  color: #f4623a;
+  color: #76ada0;
   background-color: transparent;
 }
 .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active, .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  background-color: #76ada0;
+  border-color: #76ada0;
 }
 .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-primary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(244, 98, 58, 0.5);
@@ -2867,7 +2868,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #f4623a;
+  color: #76ada0;
   text-decoration: none;
 }
 .btn-link:hover {
