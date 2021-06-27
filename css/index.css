@@ -148,7 +148,7 @@ hr.black {
 	border-color: #000000;
 	color: #000000;
 }
-/* 
+
 /* 	Vertically center the images on the "Fun Stuff" section
 		https://stackoverflow.com/a/37163431
 */
@@ -171,7 +171,6 @@ hr.black {
 	border-radius: 50%;
 }
 
-/* 
 		https://stackoverflow.com/a/2711996 
 */
 .images-size-mtb {
