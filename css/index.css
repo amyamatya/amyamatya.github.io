@@ -27,7 +27,7 @@
 }
 
 .text-blue {
-  color: blue;
+  color: 4d7360;
   border-bottom: 1px solid currentColor;
 }
   /* 6/15/2018: Renamed because Bootstrap's CSS ALSO has a text-white class,
@@ -40,7 +40,7 @@
 
 /* Link color when it is unvisited */
 a.text-blue:link  {
-  color: blue;
+  color: 4d7360;
   border-bottom: 1px solid currentColor;
 }
 a.text-white-link:link  {
@@ -50,7 +50,7 @@ a.text-white-link:link  {
 
 /* Link color after being clicked on and visited */
 a.text-blue:visited {
-  color: blue;
+  color: 4d7360;
   border-bottom: 1px solid currentColor;
 }
 a.text-white-link:visited {
@@ -60,19 +60,19 @@ a.text-white-link:visited {
 
 /* Link color while being hovered on */
 a.text-blue:hover {
-  color: blue;
+  color: 4d7360;
   border-bottom: 1px solid currentColor;
   text-decoration: none;
 }
 a.text-white-link:hover {
-  color: blue;
+  color: 4d7360;
   border-bottom: 1px solid currentColor;
   text-decoration: none;
 }
 
 /* Link color the moment it is clicked */
 a.text-blue:active {
-  color: blue;
+  color: 4d7360;
   border-bottom: 1px solid currentColor;
 }
 a.text-white-link:active {
