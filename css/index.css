@@ -27,7 +27,7 @@
 }
 
 .text-blue {
-  color: 4d7360;
+  color: 76ad92;
   border-bottom: 1px solid currentColor;
 }
   /* 6/15/2018: Renamed because Bootstrap's CSS ALSO has a text-white class,
