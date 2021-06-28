@@ -40,7 +40,7 @@
 
 /* Link color when it is unvisited */
 a.text-blue:link  {
-  color: 76ad92;
+  color: 4d7360;
   border-bottom: 1px solid currentColor;
 }
 a.text-white-link:link  {
@@ -60,12 +60,12 @@ a.text-white-link:visited {
 
 /* Link color while being hovered on */
 a.text-blue:hover {
-  color: 4d7360;
+  color: f4623a;
   border-bottom: 1px solid currentColor;
   text-decoration: none;
 }
 a.text-white-link:hover {
-  color: 4d7360;
+  color: f4623a;
   border-bottom: 1px solid currentColor;
   text-decoration: none;
 }
